@@ -1,6 +1,6 @@
 !#/usr/bin/env ruby
 
-require_relative 'engine'
+require './engine'
 
 bracket = Bracket.new
 
